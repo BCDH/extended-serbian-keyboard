@@ -1,7 +1,7 @@
 # extended-serbian-keyboard
 Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historical Letters (for PCs)
 
-Српска (ћирилично-латинична) тастатура са комбинованим дијакритичким знацима и предвуковским словима.
+Српска (ћирилично-латинична) тастатура са комбинованим дијакритичким знацима и предвуковском ћирилицом.
 
 
 ## Распоред

@@ -57,14 +57,31 @@ Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historic
 ### хачек (ǎ)
 `а` + (`десни ctrl` +  `6`)
 
-### тачка изнад (а̇)
-`а`+ (`десни ctrl` +  `.`)
-
 ### дијареза (ä)
-`a`+ (`десни ctrl` +  `:`) = `a`+ (`⇧ Shift ` + `десни ctrl` +  `.`)
+`a`+ (`right-ctrl` +  `.`) 
+
+### тачка испод (а̣)
+`a`+ (`altGr` + `.`)
+
+### тачка изнад (а̇)
+`a`+ (`⇧ Shift ` +`altGr` + `.`)
+
+### кружић испод (а̥)
+`a`+ (`right-ctrl ` + `altGr` + `.`)
+
+### кружић изнад (а̊)
+`a`+ (`⇧ Shift ` +  `right-ctrl ` + `altGr` + `.`)
 
 ### седиља (a̧)
 `а`+ (`десни ctrl` +  `,`)
+
+### огоњок (ą)
+`а`+ (`⇧ Shift ` + `right-ctrl` + `,`)
+
+### <a name="tilde-above"></a>тилде изнад (а̃)
+`а`+ (`⇧ Shift ` + `right-ctrl` + `n`)
+
+*За тилде као симбол, погледај под [тилде симбол](#tilde-symbol)*
 
 ### двоструки акут (a̋)
 `а`+ (`десни ctrl` + `⇧ Shift ` + `2`)
@@ -303,7 +320,7 @@ Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historic
 `⇧ Shift ` +  `right-ctrl ` + `altGr` + `<`
 
 
-## Додатна латинична слова
+## Додатна латинична слова и симболи
 
 ### мало латинично и без тачке (ı)
 `right-ctrl` + `l` 
@@ -349,6 +366,12 @@ Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historic
 
 ### нумеро (№)
 `altGr` + `n`
+
+### <a name="tilde-symbol"></a>тилде симбол (~)
+
+`right-ctrl` + `n`
+
+*За тилде као дијакритик, погледај под [тилде изнад](#tilde-above)*
 
 ## Напомене
 Развијено у Центру за дигиталне хуманистичке науке  у сарадњи са Институтом за српски језик и Вуковом задужбином,  у оквиру пројеката „Расковник” и „Изданак” — уз подршку Министарства културе и информисања Републике Србије. 

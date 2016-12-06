@@ -192,6 +192,7 @@ Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historic
 
 ### мала округла омега (ѻ)
 `altGr` + `o`
+
 ### велика округла омега (Ѻ)
 `⇧ Shift ` +`altGr` + `o`
 
@@ -266,7 +267,6 @@ Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historic
 ### велико пси (Ѱ)
 `⇧ Shift ` +  `right-ctrl ` + `altGr` + `p`
 
-### 
 
 ### мало танко јер, мали меки знак (ь)
 `altGr` + `y (ипсилон)`
@@ -297,6 +297,21 @@ Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historic
 
 ### велико јери са дебелим јер (Ꙑ)
 `⇧ Shift ` + `right-ctrl` + `x (икс)`
+
+### <a name="thousand"></a>цслв. хиљада (҂)
+`right-ctrl` + `h` 
+
+
+## <a name="ocs-numbers"></a>Комбиновани старословенски бројеви
+Као и дијакритици, и ови знакови се додају после оног којег треба да уоквире.
+
+### цслв. сто хиљада (  ҈ )
+`⇧ Shift ` + `right-ctrl` + `h`
+
+### цслв. милион (  ҉ )  
+`ctrl` + `m`
+
+*Знак за хиљаду није комбиновани дијакритик. Види под [цслв. хиљада](#thousand).*
 
 
 ## Додатни знаци интерпункције

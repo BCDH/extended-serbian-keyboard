@@ -1,4 +1,4 @@
-# extended-serbian-keyboard
+# Проширена српска тастатура
 Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historical Letters (for PCs)
 
 Српска (ћирилично-латинична) тастатура са комбинованим дијакритичким знацима и предвуковском ћирилицом.
@@ -16,7 +16,7 @@ Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historic
 
 Следе примери за додавање акцената над словом а. Исти приницп важи и за сва друга слова, како на ћирилици, тако и на латиници. 
 
-### краткосилазни акценат (ȁ)
+### краткосилазни акценат (ȁ)
 
 `а` + (`десни ctrl` +  `2`)
 
@@ -51,10 +51,10 @@ Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historic
 ### циркумфлекс (â)
 `а` + (`десни ctrl` +  `4`)
 
-### брев (ă)
+### брев (ă)
 `а` + (`десни ctrl` +  `5`)
 
-### хачек (ǎ)
+### хачек (ǎ)
 `а` + (`десни ctrl` +  `6`)
 
 ### дијареза (ä)
@@ -75,7 +75,7 @@ Serbian (Cyrillic/Latin) Keyboard Layout with  Combining Diacritics and Historic
 ### седиља (a̧)
 `а`+ (`десни ctrl` +  `,`)
 
-### огоњок (ą)
+### огоњок (ą)
 `а`+ (`⇧ Shift ` + `right-ctrl` + `,`)
 
 ### <a name="tilde-above"></a>тилде изнад (а̃)
